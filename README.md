@@ -3,7 +3,6 @@
 ### Image Encryption & Decryption Tool • Python GUI
 
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![Tkinter GUI](https://img.shields.io/badge/UI-Tkinter-green?style=for-the-badge)
 ![Pillow](https://img.shields.io/badge/Library-Pillow-orange?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-Pixel%20Scrambling-cyan?style=for-the-badge)
 
