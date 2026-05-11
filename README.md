@@ -49,7 +49,6 @@
 
 ## 📜 Developer Credits
 * **Developer:** Noufal N S
-* **Organization:** Byte Craft Labs
 * **Task:** Prodigy Infotech Cybersecurity Internship - Task 02
 
 ---
